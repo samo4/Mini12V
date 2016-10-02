@@ -2,18 +2,18 @@ Schematic and PCB Check Report
 ------------------------------
 
 Report File:        D:\dev\Mini12V\Mini12V (PCB - Schematic and PCB Check Report).txt
-Report Written:     Saturday, October 01, 2016
+Report Written:     Sunday, October 02, 2016
 Project Path:       D:\dev\Mini12V\Mini12V.prj
 Design Path:        D:\dev\Mini12V\Mini12V.pcb
 Design Title:       
 Created:            1.10.2016 17:34:38
-Last Saved:         1.10.2016 20:05:46
-Editing Time:       176 min
+Last Saved:         2.10.2016 18:51:56
+Editing Time:       206 min
 Units:              mm (precision 1)
 
 
-Checking integrity of Schematic and Pcb designs in project "Mini12V"
-====================================================================
+Checking integrity of Schematic "D:\dev\Mini12V\Mini12V.sch" with PCB "D:\dev\Mini12V\Mini12V.pcb"
+==================================================================================================
 
 
 End Of Report.

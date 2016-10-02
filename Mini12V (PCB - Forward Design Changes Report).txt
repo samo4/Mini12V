@@ -2,59 +2,16 @@ Forward Design Changes Report
 -----------------------------
 
 Report File:        D:\dev\Mini12V\Mini12V (PCB - Forward Design Changes Report).txt
-Report Written:     Saturday, October 01, 2016
+Report Written:     Sunday, October 02, 2016
 Project Path:       D:\dev\Mini12V\Mini12V.prj
 Design Path:        D:\dev\Mini12V\Mini12V.pcb
 Design Title:       
 Created:            1.10.2016 17:34:38
-Last Saved:         1.10.2016 20:30:58
-Editing Time:       176 min
+Last Saved:         2.10.2016 18:51:56
+Editing Time:       206 min
 Units:              mm (precision 1)
 
-Added value "Value=47uF/400V/16mm" to component reference "C1".
-
-
-Added net "N0027".
-Added net "N0033".
-
-Added component reference "R6" of component "RES", package "0805".
-Added value "Value=4k3" to component reference "R6".
-
-Added component reference "R5" of component "RES", package "0805".
-Added value "Value=39k" to component reference "R5".
-
-Added component reference "C3" of component "Capacitor", package "1210".
-Added value "Value=47uF/16V" to component reference "C3".
-
-Added component reference "C4" of component "Capacitor", package "1206".
-Added value "Value=100nF/25V" to component reference "C4".
-
-Added component reference "C5" of component "Capacitor", package "1206".
-Added value "Value=2.2nF/1000V (Y1)" to component reference "C5".
-
-Added component reference "C6" of component "Capacitor", package "1206".
-Added value "Value=1nF/10V" to component reference "C6".
-
-Added component reference "C8" of component "Capacitor", package "1206".
-Added value "Value=2.2nF/1000V (Y1)" to component reference "C8".
-
-
-Connected pin "IC1-2" to net "N0033".
-Connected pin "R6-1" to net "N0011".
-Connected pin "R6-2" to net "N0027".
-Connected pin "R5-1" to net "N0027".
-Connected pin "R5-2" to net "N0010".
-Connected pin "D3-4" to net "N0018".
-Connected pin "D3-3" to net "N0001".
-Connected pin "C3-1" to net "N0018".
-Connected pin "C3-2" to net "N0016".
-Connected pin "C4-1" to net "N0027".
-Connected pin "C5-1" to net "N0018".
-Connected pin "C5-2" to net "N0011".
-Connected pin "C6-1" to net "N0018".
-Connected pin "C6-2" to net "N0033".
-Connected pin "C8-1" to net "N0000".
-Connected pin "C8-2" to net "N0001".
+The designs are the same, so no design changes to forward.
 
 
 End Of Report.
