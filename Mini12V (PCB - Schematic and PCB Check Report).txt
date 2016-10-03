@@ -7,8 +7,8 @@ Project Path:       D:\dev\Mini12V\Mini12V.prj
 Design Path:        D:\dev\Mini12V\Mini12V.pcb
 Design Title:       
 Created:            1.10.2016 17:34:38
-Last Saved:         3.10.2016 13:24:37
-Editing Time:       1428 min
+Last Saved:         3.10.2016 15:46:04
+Editing Time:       1450 min
 Units:              mm (precision 1)
 
 
