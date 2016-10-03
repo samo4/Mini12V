@@ -2,16 +2,24 @@ Forward Design Changes Report
 -----------------------------
 
 Report File:        D:\dev\Mini12V\Mini12V (PCB - Forward Design Changes Report).txt
-Report Written:     Sunday, October 02, 2016
+Report Written:     Monday, October 03, 2016
 Project Path:       D:\dev\Mini12V\Mini12V.prj
 Design Path:        D:\dev\Mini12V\Mini12V.pcb
 Design Title:       
 Created:            1.10.2016 17:34:38
-Last Saved:         2.10.2016 18:51:56
-Editing Time:       206 min
+Last Saved:         3.10.2016 13:24:37
+Editing Time:       1428 min
 Units:              mm (precision 1)
 
-The designs are the same, so no design changes to forward.
+Added net "N0055".
+Added net "N0056".
+
+Added component reference "CONN1" of component "4mm 2x terminal block", package "DIL".
+
+Connected pin "D3-1" to net "N0056".
+Connected pin "D3-2" to net "N0055".
+Connected pin "CONN1-1" to net "N0055".
+Connected pin "CONN1-2" to net "N0056".
 
 
 End Of Report.
