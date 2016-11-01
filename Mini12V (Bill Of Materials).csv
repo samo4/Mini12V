@@ -1,6 +1,21 @@
+"Report File:","D:\dev\Mini12V\Mini12V (Bill Of Materials).csv"
+"Report Written:","Tuesday, November 01, 2016"
+"Project Path:","D:\dev\Mini12V\Mini12V.prj"
+"Design Path:","D:\dev\Mini12V\Mini12V.pcb"
+"Design Title:",""
+"Created:","1.10.2016 16:34:38"
+"Last Saved:","1.11.2016 17:30:05"
+"Editing Time:","1665 min"
+"Units:","mm (precision 2)"
+
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
+--------------------------------------------------------------------------
+
+
 "Ref Name","Qty","Component","Value","Package","Manufacturer","MPN","RS Part Number","Other Part Number","Description"
 "CONN1","1","4mm 2x terminal block","","DIL","","","","",""
 "PL1","1","4WP","","DSC","","","","","4 way Pin Header"
+"C9","1","890324025017CS","","DIL","","","","","Capacitor 0.1uF 275VAC"
 "TR1","1","B0570-BL","","USER","","","","","Transformers Audio & Signal B0570 for NCP101X 15uH 12 V 1.25 A"
 "C6","1","Capacitor","1nF/10V","1206","","","","","Capacitor"
 "C8","1","Capacitor","2.2nF/400V","1206","","","","","Capacitor"
@@ -11,12 +26,15 @@
 "C7","1","Capacitor","47uF/16V","1210","","","","","Capacitor"
 "C3","1","Capacitor","47uF/16V","1210","","","","","Capacitor"
 "C4","1","Capacitor","100nF/25V","1206","","","","","Capacitor"
+"C1","1","Capacritor_Pol","10uF/400V/10mm","CAPP5V","","EKMG401E??100MJ20S","","",""
 "C2","1","Capacritor_Pol","47uF/50V","CAPP1V","","EEUEB1H470S","","",""
-"C1","1","Capacritor_Pol","47uF/400V/16mm","CAPP5V","","","","",""
+"R1","1","CL-160","","DIL","","","","","AMPHENOL ADVANCED SENSORS  CL-160  NTC INRUSH CURRENT LIMITER, 5 OHM"
 "D3","1","DF06S-T","","DF06S-T","Diodes Inc.","DF06S-T","7513957","","Bridge Rectifier Single 600V 1A DFS4 Diodes Inc DF06S-T, Bridge Rectifier, 1A 600V, 4-Pin DF-S"
+"F1","1","FUSE, ANTISURGE, TR5, 1A","","DIL","","","","","fuse: 37211000431 Littlefuse FUSE, ANTISURGE, TR5, 1A"
 "D4","1","LL4148","","DIOM8059X265N","Fairchild Semiconductor","LL4148","6708826","","LL4148, Fast Recovery Rectifier Diode,  Switching 0.2A max, 100V 4ns, 2-Pin, SOD-80"
 "D1","1","MURS160T3G","","DIOM5436X247N","ON Semiconductor","MURS160T3G","5452175","","ON SEMICONDUCTOR - MURS160T3G - DIODE, ULTRAFAST, 1A, 600V, DO-214AA"
 "IC1","1","NCP1014ST100T3G","","SOT240P700X175-4N","ON Semiconductor","NCP1014ST100T3G","7868759","",""
+"L2","1","PLA10AN3630R3D2B","","DIL","","","","","MURATA CHOKE, COMMON MODE, 2X36MH, 0.3A"
 "R8","1","RES","1k","0805","","","","","Generic resistor"
 "R2","1","RES","3k3","0805","","","","","Generic resistor"
 "R6","1","RES","4k3","0805","","","","","Generic resistor"
